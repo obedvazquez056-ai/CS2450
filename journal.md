@@ -10,4 +10,9 @@ assigned priorites based on how much time and effort they would take.
 
 Date: 09/19/2025
 This week we learned about merging branches and the process of dealing with merge conflicts. We also talked coding
-algorithms and how they are used by watching a video. I really enjoyed the class activity we did as a class sorting the alphabet. We also learned about diagrams. 
+algorithms and how they are used by watching a video. I really enjoyed the class activity we did as a class sorting the alphabet. We also learned about diagrams.
+
+Date: 09/26/2025
+This week we learned about making impactful presentations. The 3 big points were: the audience, goals, and design
+design principles. I found it interesting how big leters and colors draw the attention first. We also started making
+our own presentation for our project.  
