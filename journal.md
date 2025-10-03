@@ -15,4 +15,8 @@ algorithms and how they are used by watching a video. I really enjoyed the class
 Date: 09/26/2025
 This week we learned about making impactful presentations. The 3 big points were: the audience, goals, and design
 design principles. I found it interesting how big leters and colors draw the attention first. We also started making
-our own presentation for our project.  
+our own presentation for our project.
+
+Date: 10/03/2025
+This week we started working on our project. We assigned issues to every member of our team to manage what to do. We aso assigned numbers based on the time/difficulty. We split up the total points and made a plan. We also made a Kanban to
+see what everyone is working to see the process.   
