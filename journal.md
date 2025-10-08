@@ -19,4 +19,8 @@ our own presentation for our project.
 
 Date: 10/03/2025
 This week we started working on our project. We assigned issues to every member of our team to manage what to do. We aso assigned numbers based on the time/difficulty. We split up the total points and made a plan. We also made a Kanban to
-see what everyone is working to see the process.   
+see what everyone is working to see the process.
+
+Date: 10/08/2025
+This week we learned about the jobs and responsibilities software engineers have. We also went over pair programming and did an activity to practice. I found it very helpful and fast. It was nice having another persepective and someone to 
+catched the small errors and give ideas. I also learned how to use flask so I can add images or have a user add images for his profile on our website.    
