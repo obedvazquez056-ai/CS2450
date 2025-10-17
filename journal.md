@@ -23,4 +23,7 @@ see what everyone is working to see the process.
 
 Date: 10/08/2025
 This week we learned about the jobs and responsibilities software engineers have. We also went over pair programming and did an activity to practice. I found it very helpful and fast. It was nice having another persepective and someone to 
-catched the small errors and give ideas. I also learned how to use flask so I can add images or have a user add images for his profile on our website.    
+catched the small errors and give ideas. I also learned how to use flask so I can add images or have a user add images for his profile on our website.
+
+Date: 10/17/2025
+This week we learned about ethics and the problems programmers have to face when faced with an ethical problem. We looked a the Trolley problem which gave us a good idea/plan to look at ethical problems. To me it raised a question of who chooses what is valuable. On the surface 5 lives are more valuable than 1 life. But if its a person who is important to you then the values change. As programmer our code can have an impact on people and we have to decide what is morrally right and fair. I really enjoyed all the stories and examples the professor showed.     
