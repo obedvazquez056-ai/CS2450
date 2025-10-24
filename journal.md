@@ -26,4 +26,7 @@ This week we learned about the jobs and responsibilities software engineers have
 catched the small errors and give ideas. I also learned how to use flask so I can add images or have a user add images for his profile on our website.
 
 Date: 10/17/2025
-This week we learned about ethics and the problems programmers have to face when faced with an ethical problem. We looked a the Trolley problem which gave us a good idea/plan to look at ethical problems. To me it raised a question of who chooses what is valuable. On the surface 5 lives are more valuable than 1 life. But if its a person who is important to you then the values change. As programmer our code can have an impact on people and we have to decide what is morrally right and fair. I really enjoyed all the stories and examples the professor showed.     
+This week we learned about ethics and the problems programmers have to face when faced with an ethical problem. We looked a the Trolley problem which gave us a good idea/plan to look at ethical problems. To me it raised a question of who chooses what is valuable. On the surface 5 lives are more valuable than 1 life. But if its a person who is important to you then the values change. As programmer our code can have an impact on people and we have to decide what is morrally right and fair. I really enjoyed all the stories and examples the professor showed.
+
+Date: 10/24/2025
+This week we learned about unit testing and the importance of it. I learned that its good practice to do unit testing. We installed selenium which was new to me but that allowed us to test our code for our project. This week I worked on my project and got images put in as well as worked on the UI.     
