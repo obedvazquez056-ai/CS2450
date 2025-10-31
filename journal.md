@@ -29,4 +29,7 @@ Date: 10/17/2025
 This week we learned about ethics and the problems programmers have to face when faced with an ethical problem. We looked a the Trolley problem which gave us a good idea/plan to look at ethical problems. To me it raised a question of who chooses what is valuable. On the surface 5 lives are more valuable than 1 life. But if its a person who is important to you then the values change. As programmer our code can have an impact on people and we have to decide what is morrally right and fair. I really enjoyed all the stories and examples the professor showed.
 
 Date: 10/24/2025
-This week we learned about unit testing and the importance of it. I learned that its good practice to do unit testing. We installed selenium which was new to me but that allowed us to test our code for our project. This week I worked on my project and got images put in as well as worked on the UI.     
+This week we learned about unit testing and the importance of it. I learned that its good practice to do unit testing. We installed selenium which was new to me but that allowed us to test our code for our project. This week I worked on my project and got images put in as well as worked on the UI.
+
+Date: 10/31/2025
+This week I learned how important it is to refactor code to keep it organized, readable, and easy to maintain. I realized that taking the time to clean up variable names, simplify functions, and reduce complexity can prevent a lot of problems later on. Overall, this helped me understand that good coding isn’t just about making something work—it’s about making it clear and efficient for anyone who reads it.     
