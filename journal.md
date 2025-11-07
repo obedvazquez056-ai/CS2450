@@ -32,4 +32,7 @@ Date: 10/24/2025
 This week we learned about unit testing and the importance of it. I learned that its good practice to do unit testing. We installed selenium which was new to me but that allowed us to test our code for our project. This week I worked on my project and got images put in as well as worked on the UI.
 
 Date: 10/31/2025
-This week I learned how important it is to refactor code to keep it organized, readable, and easy to maintain. I realized that taking the time to clean up variable names, simplify functions, and reduce complexity can prevent a lot of problems later on. Overall, this helped me understand that good coding isn’t just about making something work—it’s about making it clear and efficient for anyone who reads it.     
+This week I learned how important it is to refactor code to keep it organized, readable, and easy to maintain. I realized that taking the time to clean up variable names, simplify functions, and reduce complexity can prevent a lot of problems later on. Overall, this helped me understand that good coding isn’t just about making something work—it’s about making it clear and efficient for anyone who reads it. 
+
+Date: 11/7/2025
+This week we learned about selenium tests and how to integrate them into our project. We also had an assignent about an execution line that runs everytime we run the code. We had trouble with this as it failed our tests but we figured out that we needed to have the website open for it to run. On another note, I encountered my first merge conflict and was able to reslove it in around 30 min. I was glad I got the opportunity to experience it and work through it.     
